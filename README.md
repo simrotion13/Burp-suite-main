@@ -12,7 +12,7 @@ Download Burp Loader files & Follow Below Steps for Activation
 
 If using in Windows 10, Download and Install Java and JDK
 
-Java --> https://javadl.oracle.com/webapps/download/AutoDL?BundleId=246806_424b9da4b48848379167015dcc250d8d
+Java --> https://javadl.oracle.com/webapps/download/AutoDL?BundleId=246808_424b9da4b48848379167015dcc250d8d
 JDK --> https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe
 
 ++++++++++++++++
